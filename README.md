@@ -22,7 +22,7 @@ I'm a passionate Software Engineer at Vertus Labs and a Lead Robotics Engineer a
 ### 👨‍💻 Projects:
 
 - **AIR Humanoid Robot Project**: Lead the development of AIR, a sophisticated humanoid robot for companionship and personal assistance. Integrated AI with mechanical engineering using Arduino, 3D printing, and servo motors for expressive functionalities.
-- **Echelon Object Detection App**: Developed a React-based application with Flask backend for real-time object detection and labeling within a live map interface.
+- **Echelon Object Detection App**: Developed a React-based application with Flask backend for real-time objects detection and labeling within a live map interface.
 - **Facial-Recognition Attendance System**: Implemented a system using facial recognition technology to automate attendance marking with deep learning techniques.
 
 ### 📈 GitHub Stats
