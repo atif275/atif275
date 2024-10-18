@@ -1,5 +1,8 @@
+![Banner for Atif Hanif's GitHub](banner.png)
+
 # Hi, I'm Atif Hanif 👋
 ![Profile views](https://komarev.com/ghpvc/?username=atif275&label=Profile%20views&color=60598F&style=flat)
+
 
 ### 🤖 Software Engineer | Robotics Enthusiast | Drone Innovator
 
