@@ -27,7 +27,7 @@ I'm a passionate Software Engineer at Vertus Labs and a Lead Robotics Engineer a
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=atif275&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=atif275&show_icons=true&theme=radical&count_private=true)
 
 ### 📫 How to Reach Me:
 
