@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Atif Hanif 👋
 
-<!--
-**atif275/atif275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 Software Engineer | Robotics Enthusiast | Drone Innovator
 
-Here are some ideas to get you started:
+I'm a passionate Software Engineer at Vertus Labs and a Lead Robotics Engineer at IntelliBotics, where I specialize in drones, humanoid robots, machine learning, embedded systems, and MERN Stack technologies. I thrive on creating advanced software and hardware solutions that push the boundaries of technology and innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies & Tools:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
+![STM32](https://img.shields.io/badge/-STM32-000?&logo=STMicroelectronics)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+
+### 👨‍💻 Projects:
+
+- **AIR Humanoid Robot Project**: Lead the development of AIR, a sophisticated humanoid robot for companionship and personal assistance. Integrated AI with mechanical engineering using Arduino, 3D printing, and servo motors for expressive functionalities.
+- **Echelon Object Detection App**: Developed a React-based application with Flask backend for real-time object detection and labeling within a live map interface.
+- **Facial-Recognition Attendance System**: Implemented a system using facial recognition technology to automate attendance marking with deep learning techniques.
+
+### 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=atif275&show_icons=true&theme=radical)
+
+### 📫 How to Reach Me:
+
+- **LinkedIn**: [atif-hanif](https://www.linkedin.com/in/atif-hanif-705625292/)
+- **Email**: [atifhanif275@gmail.com](mailto:atifhanif275@gmail.com)
+
+### 🌍 Based in Dammam, KSA / Lahore, Pakistan
+
+---
+
+*“Innovation distinguishes between a leader and a follower.” - Steve Jobs*
+
+Let's innovate together! 🚀
